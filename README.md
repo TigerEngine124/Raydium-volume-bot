@@ -60,8 +60,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/poseisol/raydium-volume-bot
-cd raydium-volume-bot
+git clone https://github.com/TigerEngine124/Raydium-volume-bot
+cd Raydium-volume-bot
 ```
 2. Install dependencies
 ```
